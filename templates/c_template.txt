@@ -1,0 +1,18 @@
+:insert
+/*-----------------------------------------
+* File Name :
+* Creation Date :
+* Last Modified :
+* Created By :
+------------------------------------------*/
+
+#include<stdio.h>
+#include<stdlib.h>
+
+
+int main()
+{
+    
+    return 0;
+}
+.
