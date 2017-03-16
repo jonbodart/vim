@@ -25,7 +25,7 @@ highlight ColorColumn ctermbg=darkgray
 " ----- TEMPLATES -----
 
 " c file template
-autocmd bufnewfile *.c so ~/.vim/c_header.txt                                                                 
+autocmd bufnewfile *.c so ~/.vim/c_template.txt                                                                 
 autocmd bufnewfile *.c exe "1," . 5 . "g/File Name :.*/s//File Name : " .expand("%")                          
 autocmd bufnewfile *.c exe "1," . 5 . "g/Creation Date :.*/s//Creation Date : " .strftime("%d-%m-%Y")         
 autocmd bufnewfile *.c exe "1," . 5 . "g/Created By :.*/s//Created By : " .expand($USER)                      
