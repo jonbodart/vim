@@ -3,19 +3,13 @@
  * @file
  * @brief
  *
- * @date
  * @author
- *
- * Last Modified :
+ * @date
  *-----------------------------------------------------------------------------
  */
 
-#include<stdio.h>
-#include<stdlib.h>
+#ifndef
+#define
 
-
-int main()
-{
-  return 0;
-}
+#endif
 .
